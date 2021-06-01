@@ -250,13 +250,6 @@ $main-color: #337ab7;
         }
       }
     }
-    // &:last-child {
-    //   .timeline-carousel__item-inner {
-    //     &::after {
-    //       width: calc(100% - 30px);
-    //     }
-    //   }
-    // }
   }
 
   .slick-list {
