@@ -9,7 +9,11 @@
 </template>
 
 <script>
+import CircuitBg from '../components/includes/CircuitBg.vue'
 export default {
+  components: {
+    CircuitBg,
+  },
   mounted() {
     // The 404 page from creator's site http://hakim.se/404
     ;(function () {

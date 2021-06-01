@@ -4,7 +4,7 @@
     <section class="timeline-carousel">
       <h1>A Brief History</h1>
       <div>
-        <p v-if="!carouselItems && carouselItems.length > 0">Loading...</p>
+        <p v-if="!carouselItems">Loading...</p>
         <VueSlickCarousel
           v-if="carouselItems && carouselItems.length > 0"
           v-bind="settings"
@@ -24,10 +24,11 @@
 <script>
 import 'vue-slick-carousel/dist/vue-slick-carousel.css'
 import VueSlickCarousel from 'vue-slick-carousel'
+import CarouselItem from '../components/CarouselItem.vue'
 import config from '../assets/config'
 
 export default {
-  components: { VueSlickCarousel },
+  components: { VueSlickCarousel, CarouselItem },
   layout: 'Page',
   data() {
     return {

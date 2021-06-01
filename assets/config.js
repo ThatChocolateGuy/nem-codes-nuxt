@@ -38,7 +38,7 @@ const config = {
       title: 'A New Beginning',
       blurb:
         'Assassination of Archduke Franz Ferdinand of Austria, heir to the Austro-Hungarian throne, who was killed in Sarajevo along with his wife Duchess Sophie by Bosnian Serb Gavrilo Princip',
-      bgImgSrc: '',
+      // bgImgSrc: '',
     },
     {
       id: 2,
@@ -46,7 +46,7 @@ const config = {
       title: 'A Second Coming',
       blurb:
         'Assassination of Archduke Franz Ferdinand of Austria, heir to the Austro-Hungarian throne, who was killed in Sarajevo along with his wife Duchess Sophie by Bosnian Serb Gavrilo Princip',
-      bgImgSrc: '',
+      // bgImgSrc: '',
     },
   ],
 }
