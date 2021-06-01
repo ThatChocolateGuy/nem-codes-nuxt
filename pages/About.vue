@@ -81,9 +81,7 @@ $main-color: #337ab7;
   padding: 20px 6.9444%;
   position: relative;
   overflow: hidden;
-  .slick-list {
-    overflow: visible;
-  }
+
   .slick-dots {
     bottom: -20px;
     padding: 0;
@@ -252,10 +250,23 @@ $main-color: #337ab7;
         }
       }
     }
-    &:last-child {
-      .timeline-carousel__item-inner {
-        &::after {
-          width: calc(100% - 30px);
+    // &:last-child {
+    //   .timeline-carousel__item-inner {
+    //     &::after {
+    //       width: calc(100% - 30px);
+    //     }
+    //   }
+    // }
+  }
+
+  .slick-list {
+    overflow: visible;
+    .slick-slide {
+      &:last-child {
+        .timeline-carousel__item-inner {
+          &::after {
+            width: calc(100% - 30px);
+          }
         }
       }
     }
