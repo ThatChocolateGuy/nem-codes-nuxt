@@ -1,4 +1,5 @@
-# my-nuxt-project
+# nem-codes-nuxt
+Portfolio site rebuilt with Nuxt
 
 ## Build Setup
 
