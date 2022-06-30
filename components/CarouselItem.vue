@@ -4,7 +4,7 @@
       <div
         class="media-wrapper media-wrapper--overlay"
         :style="{
-          backgroundImage: `url(${image})`,
+          backgroundImage: `url(${bgUrl})`,
           backgroundPosition: 'center',
           backgroundSize: 'cover',
         }"
@@ -32,8 +32,15 @@ export default {
   data() {
     return {
       heading: String,
-      image: this.bgImgSrc,
     }
+  },
+  computed: {
+    bgUrl() {
+      return require(`../assets/images/${this.image}`)
+    },
+    image() {
+      return this.bgImgSrc
+    },
   },
   mounted() {
     this.formHeading()

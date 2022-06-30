@@ -38,8 +38,7 @@ const config = {
       title: 'A New Beginning',
       blurb:
         'After existential-crisis-driven self-reflection, I decide to pivot from SaaS sales into software development. This leads me to enrol in the Web & Mobile Development program at triOS College.',
-      bgImgSrc:
-        'https://lh3.googleusercontent.com/pw/AM-JKLVGLglntBp-FuHY3rGNFPsQS1Idpy3BnvKt7KM2_R2mq82hKfz4ig2PXS2os62Umx1kEpe07UmolZ6atdhTrUy0MLkMZ4ROCPbJ0Tucmr_E9aWtCh-eS6cqI7ClT6Sx_seDO5hbfcsHaOpgW9MVX05mvw=w1872-h910-no?authuser=0',
+      bgImgSrc: 'trios-classroom.jpg',
     },
     {
       id: 2,
@@ -48,8 +47,7 @@ const config = {
       title: 'WordPress Wisdom',
       blurb:
         'I begin to take on projects for clients who need WordPress websites. The kickoff to my e-commerce expertise.',
-      bgImgSrc:
-        'https://www.codeur.com/tuto/wp-content/uploads/2020/04/site-wordpress-cms-1.jpg',
+      bgImgSrc: 'wordpress-banner.jpg',
     },
   ],
 }
