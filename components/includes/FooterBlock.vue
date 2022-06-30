@@ -23,6 +23,6 @@ export default {
 
 <style scoped>
 .site-footer {
-  background-color: rgb(255 255 255 / 60%);
+  background-color: rgb(255 255 255 / 30%);
 }
 </style>

@@ -51,11 +51,14 @@ export default {
 
 <style lang="scss" scoped>
 $main-color: #337ab7;
+
 .router-link-active.router-link-exact-active {
   border-top: 1px dotted;
   border-bottom: 1px dotted;
+
   @media screen and (min-width: 768px) {
     color: $main-color;
+
     &:focus {
       &::before,
       &::after {
@@ -63,5 +66,9 @@ $main-color: #337ab7;
       }
     }
   }
+}
+
+.site-header {
+  background-color: #ffffff4d;
 }
 </style>
