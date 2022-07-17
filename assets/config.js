@@ -32,12 +32,20 @@ const config = {
   ],
   carouselItems: [
     {
-      id: 1,
+      id: 0,
       year: 2017,
+      month: 'June',
+      title: 'An Immersive Experience',
+      blurb:
+        'After existential-crisis-driven self-reflection, I decide to pivot from SaaS sales into the XR space (AR/VR). I begin interning at an immersive digital experience agency called MetaVRse, where I work on a variety of virtual & augmented reality projects as an implementation specialist in the events marketing scene.',
+      bgImgSrc: 'metavrse-vr-photobooth.jpeg',
+    },
+    {
+      id: 1,
       month: 'December',
       title: 'A New Beginning',
       blurb:
-        'After existential-crisis-driven self-reflection, I decide to pivot from SaaS sales into software development. This leads me to enrol in the Web & Mobile Development program at triOS College.',
+        'A few months into my internship experience, I realize I want to create experiences for our immersive future. This triggers my passion for software development, leading me to enrol in the Web & Mobile Development program at triOS College.',
       bgImgSrc: 'trios-classroom.jpg',
     },
     {

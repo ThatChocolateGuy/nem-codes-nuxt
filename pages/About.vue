@@ -35,7 +35,7 @@ export default {
       carouselItems: config.carouselItems,
       settings: {
         infinite: false,
-        arrows: true,
+        arrows: false,
         dots: true,
         autoplay: false,
         speed: 1100,
