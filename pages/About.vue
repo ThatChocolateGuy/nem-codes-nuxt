@@ -39,9 +39,21 @@ export default {
         dots: true,
         autoplay: false,
         speed: 1100,
-        slidesToShow: 2,
+        slidesToShow: 3,
         slidesToScroll: 2,
+        accessibility: true,
+        adaptiveHeight: true,
+        edgeFriction: 0.1,
+        mobileFirst: true,
         responsive: [
+          {
+            breakpoint: 1400,
+            settings: {
+              arrows: false,
+              slidesToShow: 2,
+              slidesToScroll: 1,
+            },
+          },
           {
             breakpoint: 768,
             settings: {

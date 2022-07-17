@@ -49,6 +49,24 @@ const config = {
         'I begin to take on projects for clients who need WordPress websites. The kickoff to my e-commerce expertise.',
       bgImgSrc: 'wordpress-banner.jpg',
     },
+    {
+      id: 3,
+      year: 2018,
+      month: 'July',
+      title: 'WordPress Wisdom',
+      blurb:
+        'I begin to take on projects for clients who need WordPress websites. The kickoff to my e-commerce expertise.',
+      bgImgSrc: 'wordpress-banner.jpg',
+    },
+    {
+      id: 4,
+      year: 2018,
+      month: 'July',
+      title: 'WordPress Wisdom',
+      blurb:
+        'I begin to take on projects for clients who need WordPress websites. The kickoff to my e-commerce expertise.',
+      bgImgSrc: 'wordpress-banner.jpg',
+    },
   ],
 }
 export default config
