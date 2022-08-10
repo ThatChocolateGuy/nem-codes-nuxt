@@ -38,10 +38,10 @@
 // add scoped once card template finished
 .post {
   display: block;
-  margin: 0 !important;
+
   .post-thumbnail {
     max-width: none;
-    width: 100%;
+    width: 220px;
   }
   .post-content {
     padding: 0;

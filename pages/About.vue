@@ -96,7 +96,7 @@ $main-color: #337ab7;
 
   .slick-dots {
     bottom: -20px;
-    padding: 0;
+    padding: 5px 0 15px 0;
     margin: 0;
     list-style: none;
     position: absolute;

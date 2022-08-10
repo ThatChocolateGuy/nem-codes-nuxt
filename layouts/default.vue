@@ -28,7 +28,6 @@ export default {
 body {
   height: 99%;
   padding: 0;
-  transition: none;
 
   #__nuxt,
   #__layout,
@@ -39,6 +38,13 @@ body {
     width: 100%;
     height: 100%;
     display: block;
+  }
+}
+
+/* hero container	*/
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 768px;
   }
 }
 </style>
