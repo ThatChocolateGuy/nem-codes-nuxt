@@ -9,7 +9,7 @@ const config = {
   author: {
     name: 'Nem Ekpunobi',
     nickname: 'Nemo',
-    job: 'Full Stack Developer',
+    job: 'Full Stack Engineer',
     bio:
       'Spatial computing enthusiast, and interaction design buff; always looking for the best project and good bubble tea.',
     email: 'nemx14@gmail.com',
