@@ -1,8 +1,11 @@
 const config = {
   title: 'nem.codes',
   description: 'Evoking Emotion with Code',
-  keywords:
-    'nem.codes, thatxrguy, xrguy, xr, vr, ar, xr, mixed reality, virtual reality, augmented reality, spatial computing, nem, nemo, software engineer, engineer, code, software, app, apps, application, applications, web, mobile, dev, thatchocolateguy, github, full stack, full-stack, front-end, front end, developer, development, web developer, web development, full stack developer, full-stack developer, full stack engineer, full-stack engineer, .NET, .NET developer, app development, application development, software development, software engineering',
+  keywords: `nem.codes, thatxrguy, xrguy, xr, vr, ar, xr, mixed reality, virtual reality, augmented reality, 
+  spatial computing, nem, nemo, software engineer, engineer, code, software, app, apps, application, applications, web, 
+  mobile, dev, thatchocolateguy, github, full stack, full-stack, front-end, front end, developer, development, 
+  web developer, web development, full stack developer, full-stack developer, full stack engineer, full-stack engineer, 
+  .NET, .NET developer, app development, application development, software development, software engineering`,
   url: 'https://nem.codes/',
   // google_analytics: "UA-135143182-1",
   repo: 'http://github.com/ThatChocolateGuy',
