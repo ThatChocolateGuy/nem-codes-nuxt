@@ -2,7 +2,7 @@ const config = {
   title: 'nem.codes',
   description: 'Evoking Emotion with Code',
   keywords:
-    'thatxrguy, xrguy, nem.codes, xr, vr, ar, mixed reality, virtual reality, augmented reality, spatial computing, nem, nemo, developer, code, software, apps, application, web, mobile, dev, thatchocolateguy, github, full stack, full-stack, front-end, front end, developer, development, web developer, web development, full stack developer, full-stack developer, .NET, .NET developer',
+    'nem.codes, thatxrguy, xrguy, xr, vr, ar, xr, mixed reality, virtual reality, augmented reality, spatial computing, nem, nemo, software engineer, engineer, code, software, app, apps, application, applications, web, mobile, dev, thatchocolateguy, github, full stack, full-stack, front-end, front end, developer, development, web developer, web development, full stack developer, full-stack developer, full stack engineer, full-stack engineer, .NET, .NET developer, app development, application development, software development, software engineering',
   url: 'https://nem.codes/',
   // google_analytics: "UA-135143182-1",
   repo: 'http://github.com/ThatChocolateGuy',
@@ -41,7 +41,7 @@ const config = {
       month: 'June',
       title: 'An Immersive Experience',
       blurb:
-        'After some self-reflection - driven by existential crisis - I decide to pivot from SaaS sales into the XR space (AR/VR). I begin interning at a digital experience agency called MetaVRse, where I work on a variety of mixed reality projects as an implementation specialist in the events marketing scene.',
+        'After some self-reflection - driven by existential crisis - I decide to pivot from SaaS sales into the XR space (AR/VR). I begin interning at a digital experience agency called MetaVRse, where I work on a variety of mixed reality projects as an implementation specialist in the experiential marketing scene.',
       bgImgSrc: 'metavrse-vr-photobooth.jpeg',
     },
     {
