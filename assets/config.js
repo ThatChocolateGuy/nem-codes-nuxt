@@ -43,16 +43,18 @@ const config = {
       year: 2017,
       month: 'June',
       title: 'An Immersive Experience',
-      blurb:
-        'After some self-reflection - driven by existential crisis - I decide to pivot from SaaS sales into the XR space (AR/VR). I begin interning at a digital experience agency called MetaVRse, where I work on a variety of mixed reality projects as an implementation specialist in the experiential marketing scene.',
+      blurb: `After some self-reflection - driven by existential crisis - I decide to pivot from SaaS sales into the 
+      XR space (AR/VR). I begin interning at a digital experience agency called MetaVRse, where I work on a variety of 
+      mixed reality projects as an implementation specialist in the experiential marketing scene.`,
       bgImgSrc: 'metavrse-vr-photobooth.jpeg',
     },
     {
       id: 1,
       month: 'December',
       title: 'A New Beginning',
-      blurb:
-        "A few months into my internship experience, I realize I want to create experiences for the immersive future we're headed towards. This triggers my passion for software development, leading me to enrol in the Web & Mobile Development program at triOS College.",
+      blurb: `A few months into my internship experience, I realize I want to create experiences for the immersive 
+      future we're headed towards. This triggers my passion for software development, leading me to enrol in the 
+      Web & Mobile Development program at triOS College.`,
       bgImgSrc: 'trios-classroom.jpg',
     },
     {
@@ -60,26 +62,8 @@ const config = {
       year: 2018,
       month: 'July',
       title: 'WordPress Wisdom',
-      blurb:
-        'Thanks to some encouragement from my instructor, I begin to take on projects for clients who need WordPress websites. The kickoff to my e-commerce expertise.',
-      bgImgSrc: 'wordpress-banner.jpg',
-    },
-    {
-      id: 3,
-      year: 2018,
-      month: 'July',
-      title: 'WordPress Wisdom',
-      blurb:
-        'I begin to take on projects for clients who need WordPress websites. The kickoff to my e-commerce expertise.',
-      bgImgSrc: 'wordpress-banner.jpg',
-    },
-    {
-      id: 4,
-      year: 2018,
-      month: 'July',
-      title: 'WordPress Wisdom',
-      blurb:
-        'I begin to take on projects for clients who need WordPress websites. The kickoff to my e-commerce expertise.',
+      blurb: `Thanks to some encouragement from my instructor, I begin to take on projects for clients who need 
+      WordPress websites. The kickoff to my e-commerce expertise.`,
       bgImgSrc: 'wordpress-banner.jpg',
     },
   ],
